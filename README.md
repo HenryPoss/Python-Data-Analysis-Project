@@ -1,7 +1,7 @@
 # Python-Data-Analysis-Project
 This project performs a the data analysis process on the Unicorn Companies dataset.
 
-This project will performs following:
+This project involves the following steps:
 
 - Exploring the dataset
 - Cleaning the data
